@@ -5,7 +5,7 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jyj010818)](https://solved.ac/jyj010818)
 
 ![zzangjyj0818's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzangjyj0818&show_icons=true&theme=highcontrast)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyj010818)](https://solved.ac/jyj010818/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyj010818)](https://solved.ac/jyj010818/)
 
 
 # 💪Skills
