@@ -1,11 +1,10 @@
 # Jeong Yeon Jae 😉
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzangjyj0818&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Solved.ac
-jyj010818](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac jyj010818](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 ![zzangjyj0818's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzangjyj0818&show_icons=true&theme=highcontrast)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyj010818)](https://solved.ac/jyj010818/)
+[![Solved.ac ](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 # 💪Skills
 ### Platforms & Languages
