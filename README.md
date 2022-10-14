@@ -23,7 +23,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Python-173B3F.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=brightgreen)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-173B3F.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=brightgreen)
 
 
 # :mailbox_with_mail: Contacts
