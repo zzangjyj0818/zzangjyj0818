@@ -1,46 +1,134 @@
-# Jeong Yeon Jae       
-       
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzangjyj0818&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jyj010818)](https://solved.ac/jyj010818)
+<div align="center">
+  <h2>🧐 About me</h2>
+새로운 것에 대한 도전을 두려워하지 않고, 일단 들이박아버리는 성격입니다 :)<br/>
+</div>
 
-![zzangjyj0818's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzangjyj0818&show_icons=true&theme=highcontrast)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyj010818)](https://solved.ac/jyj010818/)
+<br/>
 
- 
-# 💪Skills
-### Languages
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
+<div align="center">
+    <h2>📋 Projects & Careers</h2>
+  <table>
+    <tr>
+      <th>Organization</th>
+      <th>Project Name</th>
+      <th>Role</th>
+      <th>Period</th>
+    </tr>
+    <tr>
+      <td>unofficial</td>
+      <td><a href="https://github.com/YOLO-2024/YOLO_BE">YOLO</a></td>
+      <td>Project, PM & Design, Full-Stack Engineering</td>
+      <td>2024.03 - </td>
+    </tr>
+    <tr>
+      <td>goormthon-Univ</td>
+      <td><a href="https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_33_BE">기억해봄</a></td>
+      <td>Hackathon, Back-End Engineering</td>
+      <td>2024.03</td>
+    </tr>
+    <tr>
+      <td>Sangmyung Univ.</td>
+      <td><a href="https://github.com/zzangjyj0818/2023_Sangmyung_Festa_FE">비상</a></td>
+      <td>Festival Web Page, Front-End Engineering</td>
+      <td>2023.08 - 2023.09</td>
+    </tr>
+    <tr>
+      <td>unofficial</td>
+      <td><a href="https://github.com/2023-Hackathon-TeamSMUD">SockSense</a></td>
+      <td>Hackathon, Front-End Engineering</td>
+      <td>2023.09</td>
+    </tr>
+  </table>
+</div>
 
-### FrontEnd
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-<img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 
-### BackEnd
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<div align="center">
+  <h2>🛠 Development Stack</h2>
+  2023년까지 Front-End 개발자로 활동하다가, 백엔드에 관심이 많아져 2024년부터 백엔드 공부를 시작하게 되었습니다.<br/>
+  최근 Project를 진행하면서, JPA와 Security, Apache Kafka, 실시간 서비스 등 다양한 기술을 경험하고 있는 중입니다.<br/>
+  서버를 직접 배포하기 위한 능력을 기르기위해, Cloud Computing에 대해 학습하고 있습니다.<br/><br/>
+  <table>
+    <tr>
+      <td align="center">Backend</td>
+      <td>
+        <div align="center">
+          <img alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/Kotlin-Dark.svg" />
+          &nbsp;
+          <img alt="SpringBoot" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/Spring-Dark.svg" />
+          &nbsp;
+          <img alt="Java" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/Java-Dark.svg" />
+          &nbsp;
+          <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/MySQL-Dark.svg" />
+          &nbsp;
+          <img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/MongoDB.svg" />
+          &nbsp;
+          <img alt="Kafka" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/Kafka.svg" />
+          <br/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Infrastructure</td>
+      <td>
+          <div>
+            <img alt="AWS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/AWS-Dark.svg" />
+            &nbsp;
+            <img alt="Nginx" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Nginx.svg" />
+            &nbsp;
+            <img alt="Linux" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Linux-Dark.svg" />
+            &nbsp;
+            <br/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Frontend & ETC</td>
+      <td>
+        <div>
+          <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/HTML.svg" />
+          &nbsp;
+          <img alt="CSS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/CSS.svg" />
+          &nbsp;
+          <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/JavaScript.svg" />
+          &nbsp;
+          <img alt="React" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/React-Dark.svg" />
+          &nbsp;
+          <img alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/NodeJS-Dark.svg" />
+          &nbsp;
+          <img alt="Redux" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/Redux.svg" />
+          <br/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+<br/>
 
-### DataBase
-<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> 
+<div align="center">
+  <h2>🏅 Certificates & Rewards</h2>
+  <table>
+    <tr>
+      <th>Organization</th>
+      <th>Certificate/Reward Name</th>
+      <th>Score/Grade</th>
+      <th>Period</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/2023-Hackathon-TeamSMUD">Hackathon</a></td>
+      <td>SW 융합 클러스터 2.0 해커톤</td>
+      <td>2nd Award</td>
+      <td>2023.09</td>
+    </tr>
+  </table>
+</div>
+<br/>
 
-### ETC
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzangjyj0818&layout=compact&theme=highcontrast)
-
-### Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-
- 
-# :mailbox_with_mail: Contacts
-<a href="mailto:zzangjyj0818@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
- 
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzangjyj0818&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=zzangjyj0818" alt="Git stats" height="160px" /></a>
+  <br/>
+  <h2>☎️ Contact Me</h2>
+  <a href="https://www.instagram.com/im_y._.jae/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/im_y._.jae/"/></a>
+  <a href="mailto:zzangjyj0818@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zzangjyj0818@gmail.com"/></a>
+</div>
