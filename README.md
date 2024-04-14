@@ -52,17 +52,17 @@
       <td align="center">Backend</td>
       <td>
         <div align="center">
-          <img alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Kotlin-Dark.svg?token=ATDHDRBDS663ATORAUN4YSDGDOEOQ" />
+          <img alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Kotlin-Dark.svg" />
           &nbsp;
-          <img alt="SpringBoot" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Spring-Dark.svg?token=ATDHDRBSD4UPLCGVEBZOUCLGDOEUU" />
+          <img alt="SpringBoot" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Spring-Dark.svg" />
           &nbsp;
-          <img alt="Java" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Java-Dark.svg?token=ATDHDRCPC5YZII74ROPUT3LGDOEL4" />
+          <img alt="Java" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Java-Dark.svg" />
           &nbsp;
-          <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/MySQL-Dark.svg?token=ATDHDREYACIMMGKVXNATHX3GDOEQU" />
+          <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/MySQL-Dark.svg" />
           &nbsp;
-          <img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/MongoDB.svg?token=ATDHDRH225FP255WO6JACGLGDOEP2" />
+          <img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/MongoDB.svg" />
           &nbsp;
-          <img alt="Kafka" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Kafka.svg?token=ATDHDRGIVHJ4LDXGNMVEYQTGDOENS" />
+          <img alt="Kafka" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Kafka.svg" />
           <br/>
         </div>
       </td>
@@ -71,11 +71,11 @@
       <td align="center">Infrastructure</td>
       <td>
           <div>
-            <img alt="AWS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/AWS-Dark.svg?token=ATDHDRCXL4ZSKZILQSIXKE3GDOEGI" />
+            <img alt="AWS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/AWS-Dark.svg" />
             &nbsp;
-            <img alt="Nginx" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Nginx.svg?token=ATDHDRGUOT5CVVCLKBSFD2TGDOERO" />
+            <img alt="Nginx" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Nginx.svg" />
             &nbsp;
-            <img alt="Linux" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Linux-Dark.svg?token=ATDHDRAC4A4RV7XEVQCNATTGDOEPE" />
+            <img alt="Linux" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Linux-Dark.svg" />
             &nbsp;
             <br/>
         </div>
@@ -85,17 +85,17 @@
       <td align="center">Frontend & ETC</td>
       <td>
         <div>
-          <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/HTML.svg?token=ATDHDRHHDBZ4QBYBGC724LTGDOELI" />
+          <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/HTML.svg" />
           &nbsp;
-          <img alt="CSS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/CSS.svg?token=ATDHDRCERVZ5XI6ZBSY3PBDGDOEJ6" />
+          <img alt="CSS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/CSS.svg" />
           &nbsp;
-          <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/JavaScript.svg?token=ATDHDRHTRYX74SJRROBF5KTGDOEMW" />
+          <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/JavaScript.svg" />
           &nbsp;
-          <img alt="React" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/React-Dark.svg?token=ATDHDRGRS4RL7IVBOTLSDGDGDOETC" />
+          <img alt="React" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/React-Dark.svg" />
           &nbsp;
-          <img alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/NodeJS-Dark.svg?token=ATDHDRB6XJ4KWUJG2ZWCJBTGDOESI" />
+          <img alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/NodeJS-Dark.svg" />
           &nbsp;
-          <img alt="Redux" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Redux.svg?token=ATDHDRCX5Z5754UOJDLTHE3GDOETY" />
+          <img alt="Redux" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Redux.svg" />
           <br/>
         </div>
       </td>
