@@ -52,17 +52,17 @@
       <td align="center">Backend</td>
       <td>
         <div align="center">
-          <img alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/Kotlin-Dark.svg" />
+          <img alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Kotlin-Dark.svg?token=ATDHDRBDS663ATORAUN4YSDGDOEOQ" />
           &nbsp;
-          <img alt="SpringBoot" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/Spring-Dark.svg" />
+          <img alt="SpringBoot" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Spring-Dark.svg?token=ATDHDRBSD4UPLCGVEBZOUCLGDOEUU" />
           &nbsp;
-          <img alt="Java" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/Java-Dark.svg" />
+          <img alt="Java" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Java-Dark.svg?token=ATDHDRCPC5YZII74ROPUT3LGDOEL4" />
           &nbsp;
-          <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/MySQL-Dark.svg" />
+          <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/MySQL-Dark.svg?token=ATDHDREYACIMMGKVXNATHX3GDOEQU" />
           &nbsp;
-          <img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/MongoDB.svg" />
+          <img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/MongoDB.svg?token=ATDHDRH225FP255WO6JACGLGDOEP2" />
           &nbsp;
-          <img alt="Kafka" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/Kafka.svg" />
+          <img alt="Kafka" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Kafka.svg?token=ATDHDRGIVHJ4LDXGNMVEYQTGDOENS" />
           <br/>
         </div>
       </td>
@@ -71,11 +71,11 @@
       <td align="center">Infrastructure</td>
       <td>
           <div>
-            <img alt="AWS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/AWS-Dark.svg" />
+            <img alt="AWS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/AWS-Dark.svg?token=ATDHDRCXL4ZSKZILQSIXKE3GDOEGI" />
             &nbsp;
-            <img alt="Nginx" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Nginx.svg" />
+            <img alt="Nginx" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Nginx.svg?token=ATDHDRGUOT5CVVCLKBSFD2TGDOERO" />
             &nbsp;
-            <img alt="Linux" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Linux-Dark.svg" />
+            <img alt="Linux" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Linux-Dark.svg?token=ATDHDRAC4A4RV7XEVQCNATTGDOEPE" />
             &nbsp;
             <br/>
         </div>
@@ -85,17 +85,17 @@
       <td align="center">Frontend & ETC</td>
       <td>
         <div>
-          <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/HTML.svg" />
+          <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/HTML.svg?token=ATDHDRHHDBZ4QBYBGC724LTGDOELI" />
           &nbsp;
-          <img alt="CSS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/CSS.svg" />
+          <img alt="CSS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/CSS.svg?token=ATDHDRCERVZ5XI6ZBSY3PBDGDOEJ6" />
           &nbsp;
-          <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/JavaScript.svg" />
+          <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/JavaScript.svg?token=ATDHDRHTRYX74SJRROBF5KTGDOEMW" />
           &nbsp;
-          <img alt="React" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/React-Dark.svg" />
+          <img alt="React" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/React-Dark.svg?token=ATDHDRGRS4RL7IVBOTLSDGDGDOETC" />
           &nbsp;
-          <img alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/NodeJS-Dark.svg" />
+          <img alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/NodeJS-Dark.svg?token=ATDHDRB6XJ4KWUJG2ZWCJBTGDOESI" />
           &nbsp;
-          <img alt="Redux" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/fe65adc43b7a75d5ce6e1e296972c7d784cc3572/Redux.svg" />
+          <img alt="Redux" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Redux.svg?token=ATDHDRCX5Z5754UOJDLTHE3GDOETY" />
           <br/>
         </div>
       </td>
