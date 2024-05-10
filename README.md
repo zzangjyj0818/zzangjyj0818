@@ -16,6 +16,12 @@
     </tr>
     <tr>
       <td>unofficial</td>
+      <td><a href="https://github.com/Dev-Race">DEV RACE</a></td>
+      <td>Project, Front-End Engineering</td>
+      <td>2024.05 - </td>
+    </tr>
+    <tr>
+      <td>unofficial</td>
       <td><a href="https://github.com/YOLO-2024/YOLO_BE">YOLO</a></td>
       <td>Project, PM & Design, Full-Stack Engineering</td>
       <td>2024.03 - </td>
