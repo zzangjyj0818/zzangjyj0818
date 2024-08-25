@@ -15,10 +15,10 @@
       <th>Period</th>
     </tr>
     <tr>
-      <td>unofficial</td>
-      <td><a href="https://github.com/KAGU2024">KAGU</a></td>
+      <td>Sangmyung Univ.</td>
+      <td><a href="https://github.com/eco-cycle">ECO CYCLE</a></td>
       <td>Project, Full-Stack Engineering</td>
-      <td>2024.06 - </td>
+      <td>2024.08</td>
     </tr>
     <tr>
       <td>unofficial</td>
