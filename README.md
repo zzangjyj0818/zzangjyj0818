@@ -128,13 +128,3 @@
   </table>
 </div>
 <br/>
-
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzangjyj0818&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=zzangjyj0818" alt="Git stats" height="160px" /></a>
-  <br/>
-  <h2>☎️ Contact Me</h2>
-  <a href="https://www.instagram.com/im_y._.jae/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/im_y._.jae/"/></a>
-  <a href="mailto:zzangjyj0818@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zzangjyj0818@gmail.com"/></a>
-</div>
