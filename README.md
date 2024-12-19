@@ -1,4 +1,4 @@
-<div align="center">
+![Java-Dark](https://github.com/user-attachments/assets/1d16f53d-159f-4b31-8224-9dae1e876153)<div align="center">
   <h2>🧐 About me</h2>
   안녕하세요! 프론트엔드와 백엔드를 아우르는 폭넓은 기술 스택을 기반으로 다양한 프로젝트와 해커톤을 통해 성장해 온 개발자입니다.<br/>
   문제 해결을 즐기며, 항상 새로운 도전에 열려 있고, 사용자 경험을 고려한 효율적인 애플리케이션을 만들기 위해 노력하고 있습니다.<br/> 
@@ -15,6 +15,12 @@
       <th>Project Name</th>
       <th>Role</th>
       <th>Period</th>
+    </tr>
+    <tr>
+      <td>goormthon-Univ</td>
+      <td><a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_34_BE">REBOOT OFFICE</a></td>
+      <td>Hackathon, Back-End Engineering</td>
+      <td>2024.11</td>
     </tr>
     <tr>
       <td>Sangmyung Univ.</td>
@@ -60,13 +66,15 @@
       <td align="center">Backend</td>
       <td>
         <div align="left">
-          <img alt="SpringBoot" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Spring-Dark.svg" />
+          <img alt="SpringBoot" width="30px" src="https://github.com/user-attachments/assets/637cb8c2-4c4e-4157-bacb-3fb128f04455" />
           &nbsp;
-          <img alt="Java" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Java-Dark.svg" />
+          <img alt="Java" width="30px" src="https://github.com/user-attachments/assets/bdf61e6e-be18-4b93-8872-ef207d82a3b3" />
           &nbsp;
-          <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/MySQL-Dark.svg" />
+          <img alt="NodeJS" width="30px" src="https://github.com/user-attachments/assets/ce62ffe1-43f2-4a93-afe5-ea65552b5f72" />
           &nbsp;
-          <img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/MongoDB.svg" />
+          <img alt="MySQL" width="30px" src="https://github.com/user-attachments/assets/aa76d67d-2ad3-43e7-81b0-7a249eaffd79" />
+          &nbsp;
+          <img alt="MongoDB" width="30px" src="https://github.com/user-attachments/assets/a7a2c781-e572-49ff-a5b4-d9939b8aeef2" />
           &nbsp;
         </div>
       </td>
@@ -75,11 +83,11 @@
       <td align="left">Infrastructure</td>
       <td>
           <div>
-            <img alt="AWS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/AWS-Dark.svg" />
+            <img alt="AWS" width="30px" src="https://github.com/user-attachments/assets/251c8aa8-b2b5-43ce-8342-258e6e297ca0" />
             &nbsp;
-            <img alt="Nginx" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Nginx.svg" />
+            <img alt="Nginx" width="30px" src="https://github.com/user-attachments/assets/82069c4d-f218-4a33-af98-0cbe72aaa59c" />
             &nbsp;
-            <img alt="Linux" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Linux-Dark.svg" />
+            <img alt="Linux" width="30px" src="https://github.com/user-attachments/assets/326519fd-1231-41a2-b70d-81fdf942f5e4" />
             &nbsp;
             <br/>
         </div>
@@ -89,17 +97,9 @@
       <td align="left">Frontend & ETC</td>
       <td>
         <div>
-          <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/HTML.svg" />
+          <img alt="React" width="30px" src="https://github.com/user-attachments/assets/381a5818-bd74-4397-ad7f-f8e6167fcb1f" />
           &nbsp;
-          <img alt="CSS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/CSS.svg" />
-          &nbsp;
-          <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/JavaScript.svg" />
-          &nbsp;
-          <img alt="React" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/React-Dark.svg" />
-          &nbsp;
-          <img alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/NodeJS-Dark.svg" />
-          &nbsp;
-          <img alt="Redux" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Redux.svg" />
+          <img alt="Redux" width="30px" src="https://github.com/user-attachments/assets/ecd05236-73fd-45d4-88e1-949ca8fc4071" />
           <br/>
         </div>
       </td>
