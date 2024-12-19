@@ -1,4 +1,4 @@
-![Java-Dark](https://github.com/user-attachments/assets/1d16f53d-159f-4b31-8224-9dae1e876153)<div align="center">
+<div align="center">
   <h2>🧐 About me</h2>
   안녕하세요! 프론트엔드와 백엔드를 아우르는 폭넓은 기술 스택을 기반으로 다양한 프로젝트와 해커톤을 통해 성장해 온 개발자입니다.<br/>
   문제 해결을 즐기며, 항상 새로운 도전에 열려 있고, 사용자 경험을 고려한 효율적인 애플리케이션을 만들기 위해 노력하고 있습니다.<br/> 
