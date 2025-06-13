@@ -23,12 +23,6 @@
       <td>2024.11</td>
     </tr>
     <tr>
-      <td>Sangmyung Univ.</td>
-      <td><a href="https://github.com/eco-cycle">ECO CYCLE</a></td>
-      <td>Project, Full-Stack Engineering</td>
-      <td>2024.08</td>
-    </tr>
-    <tr>
       <td>unofficial</td>
       <td><a href="https://github.com/Dev-Race">DEV RACE</a></td>
       <td>Project, Front-End Engineering</td>
@@ -39,18 +33,6 @@
       <td><a href="https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_33_BE">기억해봄</a></td>
       <td>Hackathon, Back-End Engineering</td>
       <td>2024.03</td>
-    </tr>
-    <tr>
-      <td>Sangmyung Univ.</td>
-      <td><a href="https://github.com/zzangjyj0818/2023_Sangmyung_Festa_FE">비상</a></td>
-      <td>Festival Web Page, Front-End Engineering</td>
-      <td>2023.08 - 2023.09</td>
-    </tr>
-    <tr>
-      <td>unofficial</td>
-      <td><a href="https://github.com/2023-Hackathon-TeamSMUD">SockSense</a></td>
-      <td>Hackathon, Front-End Engineering</td>
-      <td>2023.09</td>
     </tr>
   </table>
 </div>
