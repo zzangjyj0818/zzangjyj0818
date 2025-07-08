@@ -16,6 +16,12 @@
       <th>Role</th>
       <th>Period</th>
     </tr>
+      <tr>
+      <td>unofficial</td>
+      <td><a href="https://github.com/2025-SW-Capstone-Design">PLAN HUB</a></td>
+      <td>Capstone, Full-Stack</td>
+      <td>2025.01 - 2025.06</td>
+    </tr>
     <tr>
       <td>goormthon-Univ</td>
       <td><a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_34_BE">REBOOT OFFICE</a></td>
@@ -98,6 +104,12 @@
       <th>Certificate/Reward Name</th>
       <th>Score/Grade</th>
       <th>Period</th>
+    </tr>
+        <tr>
+      <td><a href="">Contest</a></td>
+      <td>2024년 사회보장정보와 공공•민간 빅데이터를 활용한 국민 행복 서비스 발굴 창업경진대회</td>
+      <td>3rd Award</td>
+      <td>2024.08</td>
     </tr>
     <tr>
       <td><a href="https://github.com/2023-Hackathon-TeamSMUD">Hackathon</a></td>
