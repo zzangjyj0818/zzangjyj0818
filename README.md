@@ -19,7 +19,7 @@
       <tr>
       <td>unofficial</td>
       <td><a href="https://github.com/2025-SW-Capstone-Design">PLAN HUB</a></td>
-      <td>Capstone, Full-Stack</td>
+      <td>Project, Full-Stack</td>
       <td>2025.01 - 2025.06</td>
     </tr>
     <tr>
