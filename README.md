@@ -16,7 +16,19 @@
       <th>Role</th>
       <th>Period</th>
     </tr>
-      <tr>
+    <tr>
+      <td>goormthon-Univ</td>
+      <td><a href="https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_64_BE">노청마루</a></td>
+      <td>Hackathon, Full-Stack</td>
+      <td>2025.09</td>
+    </tr>
+    <tr>
+      <td>unofficial</td>
+      <td><a href="https://github.com/DEER-FOR-YOU/2025_DEER_FOR_YOU_BE">DEER FOR YOU</a></td>
+      <td>Project, Full-Stack</td>
+      <td>2025.07 - 2025.09</td>
+    </tr>
+    <tr>
       <td>unofficial</td>
       <td><a href="https://github.com/2025-SW-Capstone-Design">PLAN HUB</a></td>
       <td>Project, Full-Stack</td>
@@ -27,12 +39,6 @@
       <td><a href="https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_34_BE">REBOOT OFFICE</a></td>
       <td>Hackathon, Back-End Engineering</td>
       <td>2024.11</td>
-    </tr>
-    <tr>
-      <td>unofficial</td>
-      <td><a href="https://github.com/Dev-Race">DEV RACE</a></td>
-      <td>Project, Front-End Engineering</td>
-      <td>2024.05 - 2024.06</td>
     </tr>
     <tr>
       <td>goormthon-Univ</td>
@@ -57,8 +63,6 @@
           <img alt="SpringBoot" width="30px" src="https://github.com/user-attachments/assets/637cb8c2-4c4e-4157-bacb-3fb128f04455" />
           &nbsp;
           <img alt="Java" width="30px" src="https://github.com/user-attachments/assets/bdf61e6e-be18-4b93-8872-ef207d82a3b3" />
-          &nbsp;
-          <img alt="NodeJS" width="30px" src="https://github.com/user-attachments/assets/ce62ffe1-43f2-4a93-afe5-ea65552b5f72" />
           &nbsp;
           <img alt="MySQL" width="30px" src="https://github.com/user-attachments/assets/aa76d67d-2ad3-43e7-81b0-7a249eaffd79" />
           &nbsp;
@@ -105,7 +109,13 @@
       <th>Score/Grade</th>
       <th>Period</th>
     </tr>
-        <tr>
+    <tr>
+      <td><a href="https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_64_BE">Hackathon</a></td>
+      <td>SEASONTHON</td>
+      <td>2nd Award</td>
+      <td>2025.09</td>
+    </tr>
+    <tr>
       <td><a href="">Contest</a></td>
       <td>2024년 사회보장정보와 공공•민간 빅데이터를 활용한 국민 행복 서비스 발굴 창업경진대회</td>
       <td>3rd Award</td>
